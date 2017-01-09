@@ -5,5 +5,7 @@ public class gitest {
     public void test() {
         System.out.print("i have a pen");
         System.out.print("i have an apple");
+
+        System.out.print("apple pen");
     }
 }
